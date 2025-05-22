@@ -14,3 +14,21 @@
 
 DESCRIPTION:
 
+Convolutional Neural Network is a specialized neural network used primarily for image recognition and computer vision tasks like image classification, object detection and facial recognition. It automatically 
+
+learns spatial hierarchies of features of images.
+
+CNN(Convolutional Neural Network) Architecture consists of several layers:
+1.Input Layer: It takes image as input, here images are represented as 3D matrices.
+
+2.Convolutional Layer: This layer applies kernel/filter to the images to extract features like edges,corners etc..
+
+3.Activation Layer: (ReLU) It adds non linearity to the images and makes the model to learn complex patterns (ReLU-Rectified Linear Unit)
+
+4.Pooling layer: In this layer model reduces the spatial size of the feature maps. There are two types of pooling techniques Max Pooling and Average Pooling techniques
+this layer helps in reducing overfitting and computation load on the model.
+
+5.Flatten Layer: This layer converts 2D feature maps into 1D feature map. So that it can be an input to a fully connected input layer
+
+6.Fully Connected (Dense Layer): Each neuron is connected to all other neurons of the previous layer.
+
