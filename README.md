@@ -19,6 +19,7 @@ Convolutional Neural Network is a specialized neural network used primarily for 
 learns spatial hierarchies of features of images.
 
 CNN(Convolutional Neural Network) Architecture consists of several layers:
+
 1.Input Layer: It takes image as input, here images are represented as 3D matrices.
 
 2.Convolutional Layer: This layer applies kernel/filter to the images to extract features like edges,corners etc..
@@ -32,3 +33,16 @@ this layer helps in reducing overfitting and computation load on the model.
 
 6.Fully Connected (Dense Layer): Each neuron is connected to all other neurons of the previous layer.
 
+Applications of CNN:
+
+1. Object Detection.
+
+2. Image Classification.
+
+3. Medical Image Analysis.
+
+4. Self Driving Cars.
+
+The library used to bulid Convolutional Neural Network is "TensorFlow". This library is an open source machine learning frame work. It is one of the widely used tools in deep learning and machine learning.
+
+It provides both low-level API for custom model building and high-level API for easier and faster model deployment.
