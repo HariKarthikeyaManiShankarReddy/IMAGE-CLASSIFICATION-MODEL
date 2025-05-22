@@ -46,3 +46,43 @@ Applications of CNN:
 The library used to bulid Convolutional Neural Network is "TensorFlow". This library is an open source machine learning frame work. It is one of the widely used tools in deep learning and machine learning.
 
 It provides both low-level API for custom model building and high-level API for easier and faster model deployment.
+
+In this program first I build an Aritificial Neural Network for image classification and then I built a Convolutional Neural Network to check the difference between them and i foiund that using Artificial neural 
+
+network the accuracy if around 50% and when using the Convolutional Neural Network the accuracy is excellent that the model has got an accuracy of around 80%. 
+
+Methods,libraries and functions used in this program:
+
+1. Importing required libraries:
+   tensorflow an open source deep learning library and used for defining and training and evaluting neural networks
+
+   matplotlib.pyplot used for plotting data
+
+   numpy is used for reshaping arrays and working with predictions
+
+   tensorflow.keras.datasets used to import CIFAR-10 data set for image classification
+
+   tensorflow.keras.layers used to include layers like Dense,Conv2D,Flatten,MaxPooling2D
+
+   tensorflow.keras.models used to define sequential model(models.Sequential())
+2. Reshaping the labels:
+   .reshape() function is used to reshape for model training
+
+3.Plotting Function:
+  plt.imshow() displays the image
+  plt.xlabel() displays the class name label
+
+4.Building an Artificial Neural Network and compiling the ANN:
+  SGD(Stochastic Gradient Descent) optimizer and loss is (sparse_categorical_crossentropy) and accuracy
+
+5.Printing the classification report of ANN:
+  classification_report(y_pred) this method prints precision recall f1score and support of the model.
+
+6.Building and evaluting the Convolutional Neural Network:
+  this method also involves the same dense and flatten and Conv2D layers for convolution layer and it uses ReLU activation and Softmax.
+  It uses adam optimizer and loss is same sparse_categorical_crossentropy
+
+7.Classification report of CNN:
+  this is final step of the project it prints the classification report of CNN which shows the best as compared to ANN
+
+  
