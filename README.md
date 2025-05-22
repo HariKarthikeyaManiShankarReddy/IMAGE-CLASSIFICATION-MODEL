@@ -85,4 +85,15 @@ Methods,libraries and functions used in this program:
 7.Classification report of CNN:
   this is final step of the project it prints the classification report of CNN which shows the best as compared to ANN
 
+  Dataset:
+
+  The dataset i used is CIFAR-10 dataset which is widely used for image claddification tasks. It contains 60,000 color images of size 32*32 and are divided into 10 classes
+
+  The classes includes objects like airplane,automobile,birds,cats,deer,dogs,frogs,horses,ships,trucks.
+
+  CIFAR-10 is used to train and evaluate computer vision models, especially convolutional neural networks (CNNs).
+
+
+  *OUTPUT*:
+
   
