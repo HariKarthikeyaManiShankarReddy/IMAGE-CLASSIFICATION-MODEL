@@ -96,4 +96,8 @@ Methods,libraries and functions used in this program:
 
   *OUTPUT*:
 
+  ANN Classification Report:
+  ![Image](https://github.com/user-attachments/assets/ae822801-79c1-42b2-b705-5d1bb134292c)
+
+  CNN Classification Report:
   
