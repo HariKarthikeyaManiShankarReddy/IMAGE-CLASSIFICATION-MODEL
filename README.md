@@ -97,14 +97,19 @@ Methods,libraries and functions used in this program:
   *OUTPUT*:
 
   ANN Classification Report:
+  
   ![Image](https://github.com/user-attachments/assets/ae822801-79c1-42b2-b705-5d1bb134292c)
 
   CNN Classification Report:
+  
   ![Image](https://github.com/user-attachments/assets/c469f25a-531b-4a3c-a28b-84b81935604a)
 
   Predicted Label for Output Image from the dataset:
+  
   ![Image](https://github.com/user-attachments/assets/27a691fc-aaeb-4a96-9c9c-4c4f0399d849)
 
+  
+  
   *RESOURCES*
 
   1.ChatGPT
