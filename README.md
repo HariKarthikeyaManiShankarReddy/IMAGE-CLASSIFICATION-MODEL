@@ -100,4 +100,7 @@ Methods,libraries and functions used in this program:
   ![Image](https://github.com/user-attachments/assets/ae822801-79c1-42b2-b705-5d1bb134292c)
 
   CNN Classification Report:
+  ![Image](https://github.com/user-attachments/assets/c469f25a-531b-4a3c-a28b-84b81935604a)
+
+  Predicted Label for Output Image from the dataset:
   
