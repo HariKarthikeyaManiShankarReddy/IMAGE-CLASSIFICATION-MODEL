@@ -103,4 +103,13 @@ Methods,libraries and functions used in this program:
   ![Image](https://github.com/user-attachments/assets/c469f25a-531b-4a3c-a28b-84b81935604a)
 
   Predicted Label for Output Image from the dataset:
+  ![Image](https://github.com/user-attachments/assets/27a691fc-aaeb-4a96-9c9c-4c4f0399d849)
+
+  *RESOURCES*
+
+  1.ChatGPT
+
+  2.Google
+
+  3.YouTube video from Code for basics
   
