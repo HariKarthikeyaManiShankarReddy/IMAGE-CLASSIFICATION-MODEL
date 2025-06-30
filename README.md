@@ -1,18 +1,6 @@
 # IMAGE-CLASSIFICATION-MODEL
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: CHENNAREDDY HARI KARTHIKEYA
-
-*INTERN ID*: CT06DL832
-
-*DOMAIN*: MACHINE LEARNING
-
-*DURATION*: 6 WEEKS
-
-*MENTOR*: NEELA SANTHOSH KUMAR
-
-DESCRIPTION:
+*DESCRIPTION OF THE PROJECT*:
 
 Convolutional Neural Network is a specialized neural network used primarily for image recognition and computer vision tasks like image classification, object detection and facial recognition. It automatically 
 
